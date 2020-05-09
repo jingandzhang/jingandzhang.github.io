@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jing Zhang</title>
+    <link>https://jingandzhang.github.io/publication/</link>
+      <atom:link href="https://jingandzhang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingandzhang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://jingandzhang.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced mindfulness-based stress reduction in episodic migraine: a randomized clinical trial with magnetic resonance imaging outcomes</title>
+      <link>https://jingandzhang.github.io/publication/seminowicz-enhanced-2020/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingandzhang.github.io/publication/seminowicz-enhanced-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Zolpidem on Memory Consolidation Over a Night of Sleep</title>
+      <link>https://jingandzhang.github.io/publication/zhang-effect-2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingandzhang.github.io/publication/zhang-effect-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor peak alpha frequency is a reliable biomarker of pain sensitivity</title>
+      <link>https://jingandzhang.github.io/publication/furman-sensorimotor-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingandzhang.github.io/publication/furman-sensorimotor-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG predictors of dreaming outside of REM sleep</title>
+      <link>https://jingandzhang.github.io/publication/zhang-eeg-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jingandzhang.github.io/publication/zhang-eeg-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
